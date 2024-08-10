@@ -3,9 +3,9 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=robingithb" alt="robingithb" /></a> </p>
 
-- 🔭 I’m currently working on **bookies**
+- 🔭 I’m currently working on **flutter projects**
 
-- 🌱 I’m currently learning **flutter,java etc**
+- 🌱 I’m currently learning **flutter,python etc**
 
 - 👯 I’m looking to collaborate on **bookies**
 
